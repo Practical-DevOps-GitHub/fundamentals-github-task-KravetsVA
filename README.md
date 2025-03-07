@@ -1,6 +1,10 @@
 # Task on GitHub Topic
 
+<<<<<<< HEAD
 1. Add user `softservedata` KRAVETS to this repository.
+=======
+1. Add user `softservedata` VLADIMIR KR to this repository.
+>>>>>>> develop
 
 2. Create branch `develop` as default branch.
 
